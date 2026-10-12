@@ -46,3 +46,4 @@ flutter run
 3. If `total > 10` (11 or 12) show `assets/happy.png` and "You Win!"; otherwise `assets/sad.png` and "You Lose".
 4. **Reset**: sets everything back to the initial state with `setState()`.
 # play_dice
+# play_dice
